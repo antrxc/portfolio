@@ -43,6 +43,9 @@
     #about     .section__pic-container{
         width: 35vh; height: auto;justify-content: center; 
     }
+    .article-container{
+        gap: 1rem;
+    }
 }
 
 @media  screen and (max-width: 600px) {
@@ -94,5 +97,8 @@
     }
  #about     .section__pic-container{
     width: 35vh; height: auto;justify-content: center; 
+}
+.article-container{
+    gap: 1rem;
 }
 }

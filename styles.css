@@ -305,7 +305,7 @@ background: rgb(53, 53,53);color: white;
 .article-container{
     display: flex;
     text-align: initial;
-    flex-wrap: wrap; flex-direction: row;gap: 2.5rem;
+    flex-wrap: wrap; flex-direction: row;gap: 1rem;
     justify-content: space-around;
 }
 
